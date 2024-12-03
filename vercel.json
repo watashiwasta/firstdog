@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/first-dog-purchased-with-solana",
+        "destination": "/dog-deletes-owners-private-keys-containing-1.5-bitcoin",
         "permanent": true
       }
     ]
